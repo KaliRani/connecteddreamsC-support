@@ -52,13 +52,15 @@ The app uses Bluetooth to activate or communicate with nearby Bluetooth-enabled 
 
 Why does the app request Camera access?
 Camera access for:
-- Scanning QR codes
-- Text scanning for translation (coming in future release)
-- Optional Matter pairing (coming in future release) 
-  We do not store or share images.
+- scanning QR codes,
+- optional Matter pairing (coming in future release), 
+- text scanning for translation (coming in future release), and
+- optional three-dimensional image creation.
+
+We do not store or share images.
 
 Does the app collect any personal information?
-No. Connected Dreams A does not collect, store, or transmit user data.
+No. Connected Dreams C does not collect, store, or transmit user data.
 
 Are scans or photos saved?
 No. All scanning happens locally on your device.
@@ -70,13 +72,7 @@ Connected Dreams A does not collect, store, analyze, or share any personal infor
 All features, including connectivity, alarms, and scanning, operate locally on-device.
 
 ---
-
-
 Thank you for using Connected Dreams C.
-
-
-
-
 
 For support, please contact: manisha71@zohomail.com
 Version: 1.0.0
