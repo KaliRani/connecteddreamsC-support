@@ -37,5 +37,18 @@ Initial release of Connected Dreams C contains:
 
 The app runs entirely on-device and does not transmit personal data. The app uses Bluetooth to activate or communicate with nearby Bluetooth-enabled devices, such as audio or light accessories, when alarms are triggered. Users may also connect other Bluetooth devices for wellness or health-related tracking. We do not collect, store, or transmit personal data.
 
+Support Contact
+
+If you need assistance, please reach out: manisha71@zohomail.com. Please remember the app is in early development. 
+
+We aim to respond within 24–48 hours.
+
+---
+
+FAQ
+
+Why does the app request Bluetooth permission?
+The app uses Bluetooth to activate or communicate with nearby Bluetooth-enabled devices, such as audio or light accessories, when alarms are triggered. Users may also connect other Bluetooth devices for wellness or health-related tracking. We do not collect, store, or transmit personal data.
+
 
 
