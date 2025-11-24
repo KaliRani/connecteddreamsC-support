@@ -50,5 +50,19 @@ FAQ
 Why does the app request Bluetooth permission?
 The app uses Bluetooth to activate or communicate with nearby Bluetooth-enabled devices, such as audio or light accessories, when alarms are triggered. Users may also connect other Bluetooth devices for wellness or health-related tracking. We do not collect, store, or transmit personal data.
 
+Why does the app request Camera access?
+Camera access for:
+- Scanning QR codes
+- Text scanning for translation (coming in future release)
+- Optional Matter pairing (coming in future release) 
+  We do not store or share images.
+
+Does the app collect any personal information?
+No. Connected Dreams A does not collect, store, or transmit user data.
+
+Are scans or photos saved?
+No. All scanning happens locally on your device.
+
+
 
 
