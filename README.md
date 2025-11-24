@@ -64,5 +64,24 @@ Are scans or photos saved?
 No. All scanning happens locally on your device.
 
 
+Privacy Notice
+
+Connected Dreams A does not collect, store, analyze, or share any personal information.  
+All features, including connectivity, alarms, and scanning, operate locally on-device.
+
+---
+
+
+Thank you for using Connected Dreams C.
+
+
+
+
+
+For support, please contact: manisha71@zohomail.com
+Version: 1.0.0
+
+
+
 
 
