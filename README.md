@@ -69,7 +69,7 @@ No. All scanning happens locally on your device.
 
 Privacy Notice
 
-Connected Dreams A does not collect, store, analyze, or share any personal information.  
+Connected Dreams C does not collect, store, analyze, or share any personal information.  
 All features, including connectivity, alarms, and scanning, operate locally on-device.
 
 ---
