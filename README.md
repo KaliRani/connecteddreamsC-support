@@ -5,7 +5,7 @@ Connected Dreams C — Support
 
 Welcome to the official support page for Connected Dreams C, a wellness and smart-connectivity app. Its design encourages daily routines through intelligent alarms, sleep tools, and connectivity-enabled companion devices. 
 
-Connected Dreams C provides an interactive environment for children and adults to create lifestyle habits. A secure journaling feature allows users to curate personal entries and images to create meaningful keepsakes in multiple formats. Future releases will contain blockchain-based keepsake options.
+Connected Dreams C provides an interactive environment for children and adults to create lifestyle habits. A secure journaling feature allows users to curate personal entries and images to create meaningful keepsakes in multiple formats. Future releases will contain blockchain-based keepsake options to archive your keepsakes- consider it a 'time-capsule'.
 
 This page provides help, contact information, and general guidance for users.
 
@@ -21,7 +21,7 @@ Connected Dreams C combines:
 -wellness tracking,
 -optional peer connectivity for feedback in future releases, 
 -interactive backgrounds, and
-- connectivity including Matter, bluetooth, and Http to activate or communicate with nearby devices, such as audio or light accessories, when user sets an alarm. Users may connect other devices, if appropriate, for wellness or health-related tracking.
+- connectivity including Matter, bluetooth, and Http to communicate with nearby devices, such as audio or light accessories, as part of user-configured routines. Users may connect other devices, if appropriate, for wellness or health-related tracking.
 
 
 Initial release of Connected Dreams C contains:
@@ -36,7 +36,7 @@ Initial release of Connected Dreams C contains:
 - curation and keepsake formation, and 
 - device activation via Bluetooth or Http depending on user preference. Matter connectivity coming with future releases.
 
-The app runs entirely on-device and does not transmit personal data. The app uses Bluetooth to activate or communicate with nearby Bluetooth-enabled devices, such as audio or light accessories, when alarms are triggered. Users may also connect other Bluetooth devices for wellness or health-related tracking. We do not collect, store, or transmit personal data.
+The app runs entirely on-device and does not transmit personal data. The app uses Bluetooth to activate or communicate with nearby Bluetooth-enabled devices, such as audio or light accessories, as part of user-configured routines. Users may also connect other Bluetooth devices for wellness or health-related tracking. We do not collect, store, or transmit personal data.
 
 Support Contact
 
@@ -49,7 +49,7 @@ We aim to respond within 24–48 hours.
 FAQ
 
 Why does the app request Bluetooth permission?
-The app uses Bluetooth to activate or communicate with nearby Bluetooth-enabled devices, such as audio or light accessories, when alarms are triggered. Users may also connect other Bluetooth devices for wellness or health-related tracking. We do not collect, store, or transmit personal data.
+The app uses Bluetooth to communicate with nearby Bluetooth-enabled devices, such as audio or light accessories, when alarms are triggered. Users may also connect other Bluetooth devices for wellness or health-related tracking. We do not collect, store, or transmit personal data.
 
 Why does the app request Camera access?
 Camera access for:
