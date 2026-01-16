@@ -36,7 +36,6 @@ Initial release of Connected Dreams C contains:
 - curation and keepsake formation, and 
 - device communication via Bluetooth or HTTP depending on user preference. Matter connectivity coming with future releases.
 
-The app runs entirely on-device and does not transmit personal data. The app uses Bluetooth to communicate with nearby Bluetooth-enabled devices, such as audio or light accessories, as part of user-configured routines. Users may also connect other Bluetooth devices for wellness or health-related tracking. We do not collect, store, or transmit personal data.
 
 Support Contact
 
